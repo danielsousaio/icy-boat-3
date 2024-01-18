@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.6.2",
+    "cookiecutter_context": {
+      "project_name": "Icy Boat",
+      "project_slug": "icy_boat_3",
+      "project_dash_slug": "icy-boat-3",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "vivekk@test.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
